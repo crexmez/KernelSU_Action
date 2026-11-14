@@ -1,3 +1,7 @@
-# KernelSU for 5.4.254 kernel test
+# KernelSU for 5.4.254 kernel
 
-Gonna tested On Itel S23 (S665L) (NOT TESTED YET, STILL WIP!!!)
+Tested On Itel S23 (S665L)
+Still needs some works
+
+
+Helped by - Claude.AI
