@@ -3,6 +3,6 @@
 Tested On Itel S23 (S665L)
 
 WORKING! proof
-(ksu-on-5.4.254)
+ksu-on-5.4.254
 
 Helped by - Claude.AI
