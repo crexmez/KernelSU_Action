@@ -4,4 +4,6 @@ Tested On Itel S23 (S665L)
 
 WORKING! proof
 
+![proof](ksu-working.png)
+
 Helped by - Claude.AI
